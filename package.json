@@ -1,0 +1,15 @@
+{
+  "name": "group_by",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Zxilly/groupBY",
+  "author": "Zxilly <zhouxinyu1001@gmail.com>",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "oicq": "github:Zxilly/oicq-nightly#publish"
+  }
+}
